@@ -2,12 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import './index.css';
+import Layout from './Components/Layout';
 
 function App() {
   return (
-    <div>
-      Hello there!
-    </div>
+    <Layout />
   );
 }
 
